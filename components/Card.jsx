@@ -20,7 +20,7 @@ export default function Card(props) {
             target="_blank"
             className="card__map-link"
           >
-            View on Google Maps
+            View in Google Maps
           </a>
         </div>
         <h2>{props.title}</h2>
